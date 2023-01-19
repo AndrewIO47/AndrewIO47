@@ -6,7 +6,7 @@ Web Developer
 
 I am a self-driven person who likes to work on fun and interesting projects.
 
-*   🌍  I'm based in Iowa
+*   🌍  I'm based in the US, Iowa
 *   ✉️  You can contact me at [andrew.chiang47@gmail.com](mailto:andrew.chiang47@gmail.com)
 *   🧠  I'm learning JavaScript, HTML, CSS, React JS
 *   🤝  I'm open to collaborating on fun and interesting projects### Skills 
